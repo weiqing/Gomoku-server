@@ -1,0 +1,6 @@
+{
+  "name": "Gomoku",
+  "version": "0.0.1",
+  "description": "Gomoku server",
+  "dependencies": {}
+}
